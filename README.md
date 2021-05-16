@@ -1,1 +1,3 @@
-# FunctionalDiversity_2021
+# Functional Diversity
+
+Code of Opazo et al. 'High ecological complexity in marine ecosystem resulted from pulse of functional turnover across the Paleozoic-Mesozoic transition'.
